@@ -1,0 +1,12 @@
+D:\Data\Downloads\SimpleShop\SimpleShop.Common\bin\Debug\net5.0\SimpleShop.Common.deps.json
+D:\Data\Downloads\SimpleShop\SimpleShop.Common\bin\Debug\net5.0\SimpleShop.Common.dll
+D:\Data\Downloads\SimpleShop\SimpleShop.Common\bin\Debug\net5.0\ref\SimpleShop.Common.dll
+D:\Data\Downloads\SimpleShop\SimpleShop.Common\bin\Debug\net5.0\SimpleShop.Common.pdb
+D:\Data\Downloads\SimpleShop\SimpleShop.Common\obj\Debug\net5.0\SimpleShop.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Downloads\SimpleShop\SimpleShop.Common\obj\Debug\net5.0\SimpleShop.Common.AssemblyInfoInputs.cache
+D:\Data\Downloads\SimpleShop\SimpleShop.Common\obj\Debug\net5.0\SimpleShop.Common.AssemblyInfo.cs
+D:\Data\Downloads\SimpleShop\SimpleShop.Common\obj\Debug\net5.0\SimpleShop.Common.csproj.CoreCompileInputs.cache
+D:\Data\Downloads\SimpleShop\SimpleShop.Common\obj\Debug\net5.0\SimpleShop.Common.dll
+D:\Data\Downloads\SimpleShop\SimpleShop.Common\obj\Debug\net5.0\ref\SimpleShop.Common.dll
+D:\Data\Downloads\SimpleShop\SimpleShop.Common\obj\Debug\net5.0\SimpleShop.Common.pdb
+D:\Data\Downloads\SimpleShop\SimpleShop.Common\obj\Debug\net5.0\SimpleShop.Common.csproj.AssemblyReference.cache

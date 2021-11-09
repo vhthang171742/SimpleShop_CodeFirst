@@ -1,0 +1,12 @@
+D:\Data\Downloads\SimpleShop\SimpleShop.Models\bin\Debug\net5.0\SimpleShop.Models.deps.json
+D:\Data\Downloads\SimpleShop\SimpleShop.Models\bin\Debug\net5.0\SimpleShop.Models.dll
+D:\Data\Downloads\SimpleShop\SimpleShop.Models\bin\Debug\net5.0\ref\SimpleShop.Models.dll
+D:\Data\Downloads\SimpleShop\SimpleShop.Models\bin\Debug\net5.0\SimpleShop.Models.pdb
+D:\Data\Downloads\SimpleShop\SimpleShop.Models\obj\Debug\net5.0\SimpleShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Downloads\SimpleShop\SimpleShop.Models\obj\Debug\net5.0\SimpleShop.Models.AssemblyInfoInputs.cache
+D:\Data\Downloads\SimpleShop\SimpleShop.Models\obj\Debug\net5.0\SimpleShop.Models.AssemblyInfo.cs
+D:\Data\Downloads\SimpleShop\SimpleShop.Models\obj\Debug\net5.0\SimpleShop.Models.csproj.CoreCompileInputs.cache
+D:\Data\Downloads\SimpleShop\SimpleShop.Models\obj\Debug\net5.0\SimpleShop.Models.dll
+D:\Data\Downloads\SimpleShop\SimpleShop.Models\obj\Debug\net5.0\ref\SimpleShop.Models.dll
+D:\Data\Downloads\SimpleShop\SimpleShop.Models\obj\Debug\net5.0\SimpleShop.Models.pdb
+D:\Data\Downloads\SimpleShop\SimpleShop.Models\obj\Debug\net5.0\SimpleShop.Models.csproj.AssemblyReference.cache
